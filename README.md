@@ -42,7 +42,7 @@ Este comando te pedirá que selecciones o crees un nuevo dataset. Si ya tienes u
     PUBLIC_SANITY_PROJECT_ID="<tu-project-id>"
     PUBLIC_SANITY_DATASET="<nombre-dataset>"
     PUBLIC_SANITY_VISUAL_EDITING_ENABLED="true" # cambiar a false en producción
-    SANITY_API_READ_TOKEN="<api-token>"
+    SANITY_API_READ_TOKEN=<api-token>
     ```
 
 5. **Ejecuta el servidor de desarrollo**:
